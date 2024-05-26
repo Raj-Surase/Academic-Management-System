@@ -5,7 +5,7 @@
 [<img src="assets/gmail.png" alt="Email" width="36" height="36">](mailto:your-email@example.com)
 [<img src="assets/twitter.png" alt="Twitter" width="36" height="36" style="margin-right: 10px;">](https://twitter.com/Raj-Surase)
 [<img src="assets/linkedin.png" alt="LinkedIn" width="36" height="36" style="margin-right: 10px;">]([https://www.linkedin.com/in/raj-surase/])
-[![Portfolio](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://your-portfolio-link.com) [Portfolio](https://your-portfolio-link.com)
+[<img src="assets/portfolio.png" alt="Portfolio" width="36" height="36" style="margin-right: 10px;">]([https://www.linkedin.com/in/raj-surase/])
 
 <h2>Note: I created this project within 4 hours in the hackathon, so please consider it before reviewing this project.</h2>
 
@@ -29,12 +29,17 @@ The Student Academic Management System is a robust platform I developed during a
 
 ## 3. APK File
 
-[Download APK](https://your-apk-file-link.com)
+[Download APK](https://drive.google.com/file/d/1N-nsev5j08xDLl1KSuETFrsNCxdtcouY/view?usp=sharing)
 
 ## 4. Screenshots
 
-![Screenshot 1](https://your-screenshot-link1.com)
-![Screenshot 2](https://your-screenshot-link2.com)
+<img src="assets/login.jpeg" alt="Login Page" width="300" height="600">
+<img src="assets/home.jpeg" alt="Home Screen" width="300" height="600">
+<img src="assets/timetable.jpeg" alt="Time Table" width="300" height="600">
+<img src="assets/staff.jpeg" alt="Staff Information" width="300" height="600">
+<img src="assets/grade.jpeg" alt="Student Performance" width="300" height="600">
+<img src="assets/attendance.jpeg" alt="Attendence" width="300" height="600">
+<img src="assets/suggestions.jpeg" alt="Suggestions" width="300" height="600">
 
 ## 5. Steps to Install
 
